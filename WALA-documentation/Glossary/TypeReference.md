@@ -1,0 +1,1 @@
+This is a class to represent the references in a your language file to some type (struct, class, array, primitive, etc.). A type reference is uniquely defined by an initiating [[class loader]] 

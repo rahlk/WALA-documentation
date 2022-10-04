@@ -1,0 +1,1 @@
+This class holds the metadata associated with [[GolangLoader]] 
