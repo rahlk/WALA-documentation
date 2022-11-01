@@ -1,0 +1,145 @@
+{
+  "main": {
+    "id": "db28522224a99939",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f2b32a7c7ecce0b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7262cbe0d466435",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Misc./FieldBasedCGUtil.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0eac2de8f57a5db3",
+    "type": "split",
+    "children": [
+      {
+        "id": "00844088a68995ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0486c71a6963ba29",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "57c957f8ccc3ac2d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8d9226a1f6a3ba90",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "33b5a92cf9252450",
+    "type": "split",
+    "children": [
+      {
+        "id": "65e82520b080185a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f1b10bebef56f69",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Misc./FieldBasedCGUtil.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3db573c0324d6cd3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Misc./FieldBasedCGUtil.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dac4f62cb93fe1d2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "48f33db587783acb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Misc./FieldBasedCGUtil.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "0486c71a6963ba29",
+  "lastOpenFiles": [
+    "Misc./A walkthrough of TestCallGraph2JSON.md",
+    "Misc./FieldBasedCGUtil.md",
+    "Implementing Languge Types.md"
+  ]
+}
